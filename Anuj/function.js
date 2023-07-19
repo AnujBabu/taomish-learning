@@ -1,5 +1,6 @@
-function greet(name ,lastname ){
-    console.log('Hello'+ ' '+name +' '+lastname)
-
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+function Cals(a, b) {
+    return b ? a + b : a;
 }
-greet ('Anuj','Sasu');
+console.log(Cals(100, 0));
