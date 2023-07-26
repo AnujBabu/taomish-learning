@@ -1,0 +1,79 @@
+  :root {
+            --base-font-size: 1rem;
+            --square-width: 12.5rem;
+            --square-margin: 0.9375rem;
+            --square-padding: 0.9375rem;
+            --square-border: 0.125rem dotted blue;
+            --section-margin: 1.25rem;
+            --input-padding: 0.5rem;
+            --input-border: 0.0625rem solid #ccc;
+            --input-border-radius: 0.25rem;
+            
+              
+        }
+        .square1 {
+            width:13.3rem;
+            height: 5.8125rem;
+            border: 0.13rem dotted blue;
+            margin-left: 3%;
+            padding-left: 1.5rem;
+            
+            
+        }
+        .square {
+            width: var(--square-width);
+            margin: var(--square-margin);
+            height: auto;
+            padding: var(--square-padding);
+            border: var(--square-border);
+            
+        }
+
+        body, h2, input {
+            margin: 0;
+            padding: 0;
+            line-height: 0.9375rem;
+        }
+
+        section {
+            margin-bottom: var(--section-margin);
+        }
+
+        .Text.Field {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .Text.Field h2 {
+            font-size: var(--base-font-size);
+            margin-bottom: 0.3125rem;
+        }
+
+        .red-star {
+            color: red;
+        }
+
+        .Text-Field {
+            margin-left: 0;
+            color: rgb(125, 99, 255);
+        }
+
+        .Text.Field input[type="text"] {
+            padding: var(--input-padding);
+            border: var(--input-border);
+            border-radius: var(--input-border-radius);
+        }
+
+        #help.text.level {
+            margin-top: var(--section-margin);
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 25rem;
+            margin: 0 auto;
+            padding: var(--section-margin);
+            background-color: #FCFCFC;
+        }
+    
