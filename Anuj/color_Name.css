@@ -1,0 +1,88 @@
+.root{
+
+    /* Primary Color Blue*/
+    --primary-color-1: #15104e;
+    --primary-color-2: #15094E;
+    --primary-color-3: #0D55D3;
+
+    /*Secondary Color Grey*/
+    --secondary-color-1: #333333;
+    --secondary-color-2: #272727;
+    --secondary-color-3: #373737;
+    --secondary-color-4: #4D4D4D;
+    --secondary-color-5: #5A5A5A;
+    --secondary-color-6: #767676;
+    --secondary-color-7: #737373;
+    --secondary-color-8: #A6A6A6;
+    --secondary-color-9: #A7A7A7;
+    --secondary-color-10: #B9B9B9;
+    --secondary-color-17:#b5aaaa;
+    --secondary-color-11: #BDBDBD;
+    --secondary-color-12: #C4C4C4;
+    --secondary-color-13: #BABABA;
+    --secondary-color-17 :#B9B9B9;
+    --secondary-color-14: #ECECEC;
+    --secondary-color-15: #EFEFEF;
+    --secondary-color-15: #E6E6E6;
+    --secondary-color-16: #f0f0f0;
+   
+
+    /*Tertiary Colors*/
+    --tertiary-color-1 : #FF8200;
+    --tertiary-color-2 : #EE9732;
+    --tertiary-color-3 : #FFF2E3;
+
+     /*Surface Colors*/
+    --surface-bg-color-1: #FFFFFF;
+    --surface-bg-color-2: #FBFBFB;
+    --surface-bg-color-3: #FCFCFC;
+    --surface-bg-color-4: #F2F2F2;
+    --surface-bg-color-5: #D9DBDE;
+    --surface-bg-color-6: #D9D9D9;
+    --surface-bg-color-7: #EAEBED;
+    --surface-bg-color-8: #F6F6F6;
+    --surface-bg-color-9: #f9f9f9;
+
+
+
+    /*Supporting Colors*/
+    --supporting-color-1: #000000;
+    --supporting-color-2: #328300;
+    --supporting-color-3: #91BC76;
+
+    /* Mandatory Color*/
+    --mandatory-color-1: #D20000;   
+
+    /*  spacing */
+    --space-sm-1: 0.12rem;
+    --space-sm-2: 0.19rem;
+    --space-sm-3: 0.25rem;
+    --space-sm-4: 0.5rem;
+    --space-sm-5: 0.62rem;
+    --space-sm-6: 0.2rem;
+    --space-sm-7 :0.063rem;
+    --space-sm-8: 1.06rem;
+    --space-sm-9 :0.875rem;
+    --space-sm-10:0.75rem;
+    --space-sm-11:0.625rem;
+
+    --space-md-1: 0.75rem;
+    --space-md-2: 0.88rem;
+    --space-md-3: 0.94rem;
+    --space-md-4: 1rem;
+    --space-md-5: 1.06rem;
+    --space-md-6: 1.12rem;
+    --space-md-7: 1.23rem;
+    --space-md-8:1.25rem;
+
+    --space-lg-1: 1.5rem;
+    --space-lg-2: 1rem;
+    --space-lg-3:3.8rem;
+    --space-lg-4 :75rem;
+    --space-lg-5 :19.5rem;
+    --space-lg-6:41rem;
+    --space-lg-7:15.625rem;
+    --space-lg-8:12.5rem;
+     
+}    
+     
